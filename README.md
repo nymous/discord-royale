@@ -1,5 +1,7 @@
-# slack-royale
-Compete to be the last player standing in the Battle Royale that plays right inside your slack channels. 
+# WIP! Conversion is in progress from a slack bot to a discord bot
+
+# Discrd-royale
+Compete to be the last player standing in the Battle Royale that plays right inside your Discord channels.
 
 ## About
 + Each round a new rule is chosen at random.
@@ -23,8 +25,8 @@ Compete to be the last player standing in the Battle Royale that plays right ins
 # Usage
 + **Install bot app to your slack workspace**
 + **copy config_template.json to config.json and fill in your credentials**
-+ **Invite the bot to the channel you'd like to play in.**  
++ **Invite the bot to the channel you'd like to play in.**
 It's best to choose a channel that naturally has a lot of chatter, but isn't super important like **#random**
-+ **Begin a match by typing "@slack_royale begin"**  
++ **Begin a match by typing "@slack_royale begin"**
 optional parameters, separated by spaces, are available: **initialTimer** (minutes), **loop** (bool)
 + **Force quite a match by typing "@slack_royale end"**
